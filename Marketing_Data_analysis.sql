@@ -62,8 +62,6 @@ CASE
   GROUP BY Device
   ORDER BY total_impressions
 
-  SELECT *
-  FROM Marketing_Dataset
   
   
 
